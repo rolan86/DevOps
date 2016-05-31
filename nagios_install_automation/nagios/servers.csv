@@ -1,0 +1,2 @@
+nagios,ubuntu/trusty64,192.168.56.22,server
+slave1,ubuntu/trusty64,192.168.56.23,slave
